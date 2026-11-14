@@ -1,0 +1,363 @@
+{
+  "coherence": {
+    "A": {
+      "avg": 0.9,
+      "samples": [
+        {
+          "position": "Trang 1 - Điều 1 (Phạm vi và đối tượng)",
+          "score_A": 1,
+          "reason_A": "Fixed-size 500 ký tự cắt ngang giữa Khoản 3 về chương trình liên kết quốc tế, mất một phần điều kiện.",
+          "score_B": 2,
+          "reason_B": "Phân chia trọn vẹn toàn bộ Điều 1 với đầy đủ 3 khoản, cấu trúc rõ ràng mạch lạc.",
+          "score_C": 2,
+          "reason_C": "Kế thừa trọn vẹn từ Strategy B, đầy đủ ngữ cảnh độc lập."
+        },
+        {
+          "position": "Trang 2 - Điều 2 (Chương trình đào tạo và khối lượng)",
+          "score_A": 1,
+          "reason_A": "Cắt dở ở Điểm b Khoản 3 về khối lượng kiến thức cơ sở ngành, tách rời với điểm c.",
+          "score_B": 2,
+          "reason_B": "Gộp trọn vẹn định mức tín chỉ cử nhân/kỹ sư và 3 khối kiến thức.",
+          "score_C": 2,
+          "reason_C": "Trọn vẹn, đọc hiểu độc lập."
+        },
+        {
+          "position": "Trang 3 - Điều 3 (Thời gian chuẩn và tối đa)",
+          "score_A": 1,
+          "reason_A": "Chunk bị đứt đoạn ở Khoản 3 về thời gian tạm dừng nghĩa vụ quân sự.",
+          "score_B": 2,
+          "reason_B": "Bảo toàn nguyên vẹn Điều 3 về thời gian chuẩn, thời gian tối đa và ngoại lệ hoãn thi hành nghĩa vụ quân sự.",
+          "score_C": 2,
+          "reason_C": "Bảo toàn nguyên vẹn, tính mạch lạc cao."
+        },
+        {
+          "position": "Trang 4 - Điều 4 (Học chế tín chỉ và quy đổi)",
+          "score_A": 1,
+          "reason_A": "Bị cắt giữa chừng ở quy định tín chỉ thực tập doanh nghiệp.",
+          "score_B": 2,
+          "reason_B": "Giữ đủ 4 khoản định nghĩa 1 tín chỉ lý thuyết, thực hành, đồ án và doanh nghiệp.",
+          "score_C": 2,
+          "reason_C": "Đầy đủ 4 khoản, ý tứ hoàn chỉnh."
+        },
+        {
+          "position": "Trang 5 - Điều 5 (Phân loại học phần)",
+          "score_A": 0,
+          "reason_A": "Cắt ngang giữa định nghĩa học phần tiên quyết và học phần học trước, làm mất chủ ngữ so sánh.",
+          "score_B": 2,
+          "reason_B": "Bảo toàn cấu trúc phân loại cả 5 loại học phần: bắt buộc, tự chọn, tiên quyết, học trước, song hành.",
+          "score_C": 2,
+          "reason_C": "Bảo toàn phân loại, cấu trúc phân cấp chuẩn."
+        },
+        {
+          "position": "Trang 6 - Điều 6 (Chuẩn đầu ra ngoại ngữ)",
+          "score_A": 1,
+          "reason_A": "Chỉ lấy được phần Bậc 3, mất điều khoản về chương trình chất lượng cao và thời hạn chứng chỉ.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn vẹn cả chuẩn Bậc 3, Bậc 4 và thời hạn chứng chỉ 2 năm.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn vẹn cả chuẩn và thời hạn."
+        },
+        {
+          "position": "Trang 7 - Điều 7 (Cấu trúc năm học và học kỳ)",
+          "score_A": 1,
+          "reason_A": "Cắt dở ở quy định thời gian tối thiểu của học kỳ hè.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn quy định học kỳ chính 15 tuần và học kỳ phụ 5 tuần.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn quy định học kỳ."
+        },
+        {
+          "position": "Trang 8 - Điều 8 (Hạn mức đăng ký tín chỉ)",
+          "score_A": 1,
+          "reason_A": "Bị ngắt giữa quy định 14 tín chỉ cho sinh viên cảnh báo học tập.",
+          "score_B": 2,
+          "reason_B": "Trọn vẹn mức tối thiểu 12 TC, tối đa 24 TC và hạn mức 14 TC khi bị cảnh báo.",
+          "score_C": 2,
+          "reason_C": "Trọn vẹn toàn bộ các hạn mức đăng ký."
+        },
+        {
+          "position": "Trang 9 - Điều 9 (Rút bớt học phần)",
+          "score_A": 1,
+          "reason_A": "Cắt ngang ở Khoản 4 về chế tài nhận điểm 0 khi tự ý bỏ học phần.",
+          "score_B": 2,
+          "reason_B": "Đầy đủ quy trình rút học phần trong 2 tuần đầu và chế tài khi vi phạm.",
+          "score_C": 2,
+          "reason_C": "Đầy đủ quy trình và chế tài."
+        },
+        {
+          "position": "Trang 10 - Điều 10 (Học lại và cải thiện điểm)",
+          "score_A": 1,
+          "reason_A": "Tách rời quy tắc học lại điểm F với quy tắc cải thiện điểm C/D.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn vẹn cả 3 khoản về xử lý điểm F và điều kiện cải thiện điểm C, D.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn vẹn quy tắc học lại và cải thiện."
+        }
+      ]
+    },
+    "B": {
+      "avg": 2.0,
+      "samples": [
+        {
+          "position": "Trang 1 - Điều 1 (Phạm vi và đối tượng)",
+          "score_A": 1,
+          "reason_A": "Fixed-size 500 ký tự cắt ngang giữa Khoản 3 về chương trình liên kết quốc tế, mất một phần điều kiện.",
+          "score_B": 2,
+          "reason_B": "Phân chia trọn vẹn toàn bộ Điều 1 với đầy đủ 3 khoản, cấu trúc rõ ràng mạch lạc.",
+          "score_C": 2,
+          "reason_C": "Kế thừa trọn vẹn từ Strategy B, đầy đủ ngữ cảnh độc lập."
+        },
+        {
+          "position": "Trang 2 - Điều 2 (Chương trình đào tạo và khối lượng)",
+          "score_A": 1,
+          "reason_A": "Cắt dở ở Điểm b Khoản 3 về khối lượng kiến thức cơ sở ngành, tách rời với điểm c.",
+          "score_B": 2,
+          "reason_B": "Gộp trọn vẹn định mức tín chỉ cử nhân/kỹ sư và 3 khối kiến thức.",
+          "score_C": 2,
+          "reason_C": "Trọn vẹn, đọc hiểu độc lập."
+        },
+        {
+          "position": "Trang 3 - Điều 3 (Thời gian chuẩn và tối đa)",
+          "score_A": 1,
+          "reason_A": "Chunk bị đứt đoạn ở Khoản 3 về thời gian tạm dừng nghĩa vụ quân sự.",
+          "score_B": 2,
+          "reason_B": "Bảo toàn nguyên vẹn Điều 3 về thời gian chuẩn, thời gian tối đa và ngoại lệ hoãn thi hành nghĩa vụ quân sự.",
+          "score_C": 2,
+          "reason_C": "Bảo toàn nguyên vẹn, tính mạch lạc cao."
+        },
+        {
+          "position": "Trang 4 - Điều 4 (Học chế tín chỉ và quy đổi)",
+          "score_A": 1,
+          "reason_A": "Bị cắt giữa chừng ở quy định tín chỉ thực tập doanh nghiệp.",
+          "score_B": 2,
+          "reason_B": "Giữ đủ 4 khoản định nghĩa 1 tín chỉ lý thuyết, thực hành, đồ án và doanh nghiệp.",
+          "score_C": 2,
+          "reason_C": "Đầy đủ 4 khoản, ý tứ hoàn chỉnh."
+        },
+        {
+          "position": "Trang 5 - Điều 5 (Phân loại học phần)",
+          "score_A": 0,
+          "reason_A": "Cắt ngang giữa định nghĩa học phần tiên quyết và học phần học trước, làm mất chủ ngữ so sánh.",
+          "score_B": 2,
+          "reason_B": "Bảo toàn cấu trúc phân loại cả 5 loại học phần: bắt buộc, tự chọn, tiên quyết, học trước, song hành.",
+          "score_C": 2,
+          "reason_C": "Bảo toàn phân loại, cấu trúc phân cấp chuẩn."
+        },
+        {
+          "position": "Trang 6 - Điều 6 (Chuẩn đầu ra ngoại ngữ)",
+          "score_A": 1,
+          "reason_A": "Chỉ lấy được phần Bậc 3, mất điều khoản về chương trình chất lượng cao và thời hạn chứng chỉ.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn vẹn cả chuẩn Bậc 3, Bậc 4 và thời hạn chứng chỉ 2 năm.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn vẹn cả chuẩn và thời hạn."
+        },
+        {
+          "position": "Trang 7 - Điều 7 (Cấu trúc năm học và học kỳ)",
+          "score_A": 1,
+          "reason_A": "Cắt dở ở quy định thời gian tối thiểu của học kỳ hè.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn quy định học kỳ chính 15 tuần và học kỳ phụ 5 tuần.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn quy định học kỳ."
+        },
+        {
+          "position": "Trang 8 - Điều 8 (Hạn mức đăng ký tín chỉ)",
+          "score_A": 1,
+          "reason_A": "Bị ngắt giữa quy định 14 tín chỉ cho sinh viên cảnh báo học tập.",
+          "score_B": 2,
+          "reason_B": "Trọn vẹn mức tối thiểu 12 TC, tối đa 24 TC và hạn mức 14 TC khi bị cảnh báo.",
+          "score_C": 2,
+          "reason_C": "Trọn vẹn toàn bộ các hạn mức đăng ký."
+        },
+        {
+          "position": "Trang 9 - Điều 9 (Rút bớt học phần)",
+          "score_A": 1,
+          "reason_A": "Cắt ngang ở Khoản 4 về chế tài nhận điểm 0 khi tự ý bỏ học phần.",
+          "score_B": 2,
+          "reason_B": "Đầy đủ quy trình rút học phần trong 2 tuần đầu và chế tài khi vi phạm.",
+          "score_C": 2,
+          "reason_C": "Đầy đủ quy trình và chế tài."
+        },
+        {
+          "position": "Trang 10 - Điều 10 (Học lại và cải thiện điểm)",
+          "score_A": 1,
+          "reason_A": "Tách rời quy tắc học lại điểm F với quy tắc cải thiện điểm C/D.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn vẹn cả 3 khoản về xử lý điểm F và điều kiện cải thiện điểm C, D.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn vẹn quy tắc học lại và cải thiện."
+        }
+      ]
+    },
+    "C": {
+      "avg": 2.0,
+      "samples": [
+        {
+          "position": "Trang 1 - Điều 1 (Phạm vi và đối tượng)",
+          "score_A": 1,
+          "reason_A": "Fixed-size 500 ký tự cắt ngang giữa Khoản 3 về chương trình liên kết quốc tế, mất một phần điều kiện.",
+          "score_B": 2,
+          "reason_B": "Phân chia trọn vẹn toàn bộ Điều 1 với đầy đủ 3 khoản, cấu trúc rõ ràng mạch lạc.",
+          "score_C": 2,
+          "reason_C": "Kế thừa trọn vẹn từ Strategy B, đầy đủ ngữ cảnh độc lập."
+        },
+        {
+          "position": "Trang 2 - Điều 2 (Chương trình đào tạo và khối lượng)",
+          "score_A": 1,
+          "reason_A": "Cắt dở ở Điểm b Khoản 3 về khối lượng kiến thức cơ sở ngành, tách rời với điểm c.",
+          "score_B": 2,
+          "reason_B": "Gộp trọn vẹn định mức tín chỉ cử nhân/kỹ sư và 3 khối kiến thức.",
+          "score_C": 2,
+          "reason_C": "Trọn vẹn, đọc hiểu độc lập."
+        },
+        {
+          "position": "Trang 3 - Điều 3 (Thời gian chuẩn và tối đa)",
+          "score_A": 1,
+          "reason_A": "Chunk bị đứt đoạn ở Khoản 3 về thời gian tạm dừng nghĩa vụ quân sự.",
+          "score_B": 2,
+          "reason_B": "Bảo toàn nguyên vẹn Điều 3 về thời gian chuẩn, thời gian tối đa và ngoại lệ hoãn thi hành nghĩa vụ quân sự.",
+          "score_C": 2,
+          "reason_C": "Bảo toàn nguyên vẹn, tính mạch lạc cao."
+        },
+        {
+          "position": "Trang 4 - Điều 4 (Học chế tín chỉ và quy đổi)",
+          "score_A": 1,
+          "reason_A": "Bị cắt giữa chừng ở quy định tín chỉ thực tập doanh nghiệp.",
+          "score_B": 2,
+          "reason_B": "Giữ đủ 4 khoản định nghĩa 1 tín chỉ lý thuyết, thực hành, đồ án và doanh nghiệp.",
+          "score_C": 2,
+          "reason_C": "Đầy đủ 4 khoản, ý tứ hoàn chỉnh."
+        },
+        {
+          "position": "Trang 5 - Điều 5 (Phân loại học phần)",
+          "score_A": 0,
+          "reason_A": "Cắt ngang giữa định nghĩa học phần tiên quyết và học phần học trước, làm mất chủ ngữ so sánh.",
+          "score_B": 2,
+          "reason_B": "Bảo toàn cấu trúc phân loại cả 5 loại học phần: bắt buộc, tự chọn, tiên quyết, học trước, song hành.",
+          "score_C": 2,
+          "reason_C": "Bảo toàn phân loại, cấu trúc phân cấp chuẩn."
+        },
+        {
+          "position": "Trang 6 - Điều 6 (Chuẩn đầu ra ngoại ngữ)",
+          "score_A": 1,
+          "reason_A": "Chỉ lấy được phần Bậc 3, mất điều khoản về chương trình chất lượng cao và thời hạn chứng chỉ.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn vẹn cả chuẩn Bậc 3, Bậc 4 và thời hạn chứng chỉ 2 năm.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn vẹn cả chuẩn và thời hạn."
+        },
+        {
+          "position": "Trang 7 - Điều 7 (Cấu trúc năm học và học kỳ)",
+          "score_A": 1,
+          "reason_A": "Cắt dở ở quy định thời gian tối thiểu của học kỳ hè.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn quy định học kỳ chính 15 tuần và học kỳ phụ 5 tuần.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn quy định học kỳ."
+        },
+        {
+          "position": "Trang 8 - Điều 8 (Hạn mức đăng ký tín chỉ)",
+          "score_A": 1,
+          "reason_A": "Bị ngắt giữa quy định 14 tín chỉ cho sinh viên cảnh báo học tập.",
+          "score_B": 2,
+          "reason_B": "Trọn vẹn mức tối thiểu 12 TC, tối đa 24 TC và hạn mức 14 TC khi bị cảnh báo.",
+          "score_C": 2,
+          "reason_C": "Trọn vẹn toàn bộ các hạn mức đăng ký."
+        },
+        {
+          "position": "Trang 9 - Điều 9 (Rút bớt học phần)",
+          "score_A": 1,
+          "reason_A": "Cắt ngang ở Khoản 4 về chế tài nhận điểm 0 khi tự ý bỏ học phần.",
+          "score_B": 2,
+          "reason_B": "Đầy đủ quy trình rút học phần trong 2 tuần đầu và chế tài khi vi phạm.",
+          "score_C": 2,
+          "reason_C": "Đầy đủ quy trình và chế tài."
+        },
+        {
+          "position": "Trang 10 - Điều 10 (Học lại và cải thiện điểm)",
+          "score_A": 1,
+          "reason_A": "Tách rời quy tắc học lại điểm F với quy tắc cải thiện điểm C/D.",
+          "score_B": 2,
+          "reason_B": "Giữ trọn vẹn cả 3 khoản về xử lý điểm F và điều kiện cải thiện điểm C, D.",
+          "score_C": 2,
+          "reason_C": "Giữ trọn vẹn quy tắc học lại và cải thiện."
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "A": {
+      "valid_records": "15/15",
+      "valid_pct": 100.0,
+      "filter_compliant": "0/1"
+    },
+    "B": {
+      "valid_records": "15/15",
+      "valid_pct": 100.0,
+      "filter_compliant": "0/1"
+    },
+    "C": {
+      "valid_records": "12/12",
+      "valid_pct": 100.0,
+      "filter_compliant": "1/1"
+    }
+  },
+  "grounding": {
+    "A": "0:0, 1:0, 2:5 (Avg 2.0/2.0)",
+    "B": "0:0, 1:1, 2:4 (Avg 1.8/2.0)",
+    "C": "0:0, 1:0, 2:5 (Avg 2.0/2.0)",
+    "samples": [
+      {
+        "id": "q16",
+        "question": "Buộc thôi học khi bị cảnh báo học tập bao nhiêu lần liên tiếp?",
+        "score_A": 2,
+        "reason_A": "Top 1 chứa đầy đủ nguyên văn: 'Bị cảnh báo học tập 2 lần liên tiếp'.",
+        "score_B": 2,
+        "reason_B": "Top 1 chứa toàn bộ Điều 24 với đầy đủ các trường hợp buộc thôi học.",
+        "score_C": 2,
+        "reason_C": "Chứa trọn vẹn Điều 24."
+      },
+      {
+        "id": "q17",
+        "question": "Số tín chỉ tích lũy tối thiểu trong kỳ để xét học bổng khuyến khích?",
+        "score_A": 2,
+        "reason_A": "Top 1 chứa Điều 25 với điều kiện tích lũy tối thiểu 15 tín chỉ.",
+        "score_B": 1,
+        "reason_B": "Top 1 nhắc tới học bổng nhưng nằm ở đoạn sau, top 2 mới có điều kiện 15 tín chỉ.",
+        "score_C": 2,
+        "reason_C": "Nhờ filter Chương IV, top 1 đưa chính xác Điều 25 về điều kiện 15 tín chỉ và GPA 3.20."
+      },
+      {
+        "id": "q18",
+        "question": "Điều kiện tín chỉ tích lũy và CPA để nhận làm đồ án tốt nghiệp?",
+        "score_A": 2,
+        "reason_A": "Top 1 chứa Điều 30 với đủ 85% tín chỉ và CPA 2.00.",
+        "score_B": 2,
+        "reason_B": "Top 1 bao hàm toàn bộ tiêu chuẩn giao đồ án tốt nghiệp.",
+        "score_C": 2,
+        "reason_C": "Trọn vẹn tiêu chuẩn làm khóa luận tốt nghiệp."
+      },
+      {
+        "id": "q19",
+        "question": "Điểm CPA tối thiểu để được xét công nhận tốt nghiệp?",
+        "score_A": 2,
+        "reason_A": "Top 1 chứa Điều 32: 'CPA đạt từ 2.00 trở lên'.",
+        "score_B": 2,
+        "reason_B": "Top 1 chứa toàn bộ 5 điều kiện công nhận tốt nghiệp.",
+        "score_C": 2,
+        "reason_C": "Toàn bộ 5 điều kiện công nhận tốt nghiệp."
+      },
+      {
+        "id": "q20",
+        "question": "Sinh viên Xuất sắc bị hạ một bậc xếp loại tốt nghiệp khi nào?",
+        "score_A": 2,
+        "reason_A": "Top 1 chứa Điều 33 với quy định học lại quá 5% hoặc bị kỷ luật cảnh cáo.",
+        "score_B": 2,
+        "reason_B": "Top 1 chứa toàn bộ quy định hạ bậc tốt nghiệp từ Xuất sắc xuống Giỏi.",
+        "score_C": 2,
+        "reason_C": "Bảo toàn quy định hạ bậc tốt nghiệp."
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Khối lượng học tập toàn khóa tối thiểu đối với trình độ cử nhân là bao nhiêu tín chỉ?",
+    "expected_answer": "Tối thiểu là 120 tín chỉ.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 2,
+    "evidence_quote": "Khối lượng học tập toàn khóa đối với trình độ cử nhân tối thiểu là 120 tín chỉ",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Thời gian học tập tối đa cho chương trình đào tạo chuẩn 4 năm là bao lâu?",
+    "expected_answer": "Không quá 6 năm (12 học kỳ chính).",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 3,
+    "evidence_quote": "Không quá 6 năm (12 học kỳ chính) đối với chương trình chuẩn 4 năm",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Một tín chỉ học phần lý thuyết được quy chuẩn bằng bao nhiêu tiết giảng dạy trên lớp?",
+    "expected_answer": "15 tiết giảng dạy trên lớp.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 4,
+    "evidence_quote": "Một tín chỉ học tập lý thuyết được quy chuẩn bằng 15 tiết giảng dạy trên lớp",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Học phần tiên quyết khác với học phần học trước như thế nào?",
+    "expected_answer": "Học phần tiên quyết bắt buộc phải tích lũy đạt mới được học học phần sau, còn học phần học trước chỉ cần hoàn thành đánh giá.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 5,
+    "evidence_quote": "Học phần A là tiên quyết của học phần B khi sinh viên bắt buộc phải tích lũy đạt học phần A mới được phép đăng ký học phần B",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Chuẩn đầu ra ngoại ngữ tối thiểu đối với sinh viên tốt nghiệp chương trình đại học chính quy là gì?",
+    "expected_answer": "Tương đương Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (TOEIC 450, IELTS 4.5, hoặc B1).",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 6,
+    "evidence_quote": "đạt chuẩn đầu ra ngoại ngữ tương đương Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Số tín chỉ tối thiểu và tối đa mà sinh viên được đăng ký trong mỗi học kỳ chính là bao nhiêu?",
+    "expected_answer": "Tối thiểu 12 tín chỉ và tối đa 24 tín chỉ.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 8,
+    "evidence_quote": "Khối lượng học tập tối thiểu: 12 tín chỉ trong mỗi học kỳ chính",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Sinh viên đang bị cảnh báo học tập thì được đăng ký tối đa bao nhiêu tín chỉ trong học kỳ kế tiếp?",
+    "expected_answer": "Tối đa 14 tín chỉ.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 8,
+    "evidence_quote": "Sinh viên đang trong tình trạng bị cảnh báo học tập chỉ được phép đăng ký tối đa 14 tín chỉ trong học kỳ kế tiếp",
+    "filter": {
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Thời hạn cho phép rút bớt học phần đã đăng ký trong học kỳ chính là bao lâu?",
+    "expected_answer": "Trong vòng 2 tuần đầu tiên tính từ ngày bắt đầu học kỳ chính.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 9,
+    "evidence_quote": "chỉ được chấp nhận trong vòng 2 tuần đầu tiên tính từ ngày bắt đầu học kỳ chính",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Sinh viên được phép đăng ký học cải thiện điểm đối với các học phần đạt điểm mấy?",
+    "expected_answer": "Chỉ được phép học cải thiện đối với điểm D, D+ hoặc C; không cho phép đối với điểm B trở lên.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 10,
+    "evidence_quote": "Sinh viên chỉ được phép đăng ký học cải thiện đối với các học phần đã đạt điểm D, D+ hoặc C",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Điều kiện về điểm CPA để sinh viên được đăng ký học chương trình đào tạo thứ hai (ngành kép) là gì?",
+    "expected_answer": "Điểm CPA của chương trình thứ nhất đạt từ 2.80 trở lên (hoặc 2.50 nếu rèn luyện Tốt).",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 13,
+    "evidence_quote": "Điểm trung bình tích lũy CPA của chương trình thứ nhất đạt từ 2.80 trở lên",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Điểm thi kết thúc học phần chiếm tỷ trọng bao nhiêu phần trăm trong tổng điểm học phần lý thuyết?",
+    "expected_answer": "Chiếm từ 50% đến 60% tổng điểm học phần.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 15,
+    "evidence_quote": "Điểm thi kết thúc học phần: Chiếm từ 50% đến 60% tổng điểm học phần",
+    "filter": {
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Sinh viên cần đáp ứng điều kiện chuyên cần nào để được dự thi kết thúc học phần?",
+    "expected_answer": "Tham gia tối thiểu 80% tổng số tiết lý thuyết và 100% các buổi thực hành/thí nghiệm.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 16,
+    "evidence_quote": "Tham gia tối thiểu 80% tổng số tiết giảng dạy lý thuyết và 100% các buổi thực hành/thí nghiệm",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Điểm tổng kết thang 10 từ 8.5 đến 10.0 quy đổi sang điểm chữ và thang 4 là bao nhiêu?",
+    "expected_answer": "Điểm chữ A, tương đương 4.0 trên thang điểm 4.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 17,
+    "evidence_quote": "Từ 8.5 đến 10.0: Điểm A (Tương đương 4.0 trên thang 4) - Xếp loại Xuất sắc",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Điểm số của các học phần Giáo dục thể chất và Giáo dục quốc phòng có tính vào điểm GPA hay CPA không?",
+    "expected_answer": "Không tính vào GPA và CPA, chỉ dùng để xét điều kiện tốt nghiệp.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 18,
+    "evidence_quote": "điểm của các học phần này không tính vào GPA và CPA",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "dieu_kien",
+    "question": "Sinh viên năm thứ nhất có điểm CPA dưới bao nhiêu thì bị áp dụng cảnh báo học vụ?",
+    "expected_answer": "CPA dưới 1.20.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 24,
+    "evidence_quote": "Dưới 1.20 đối với sinh viên năm thứ nhất",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Sinh viên bị buộc thôi học khi bị cảnh báo học tập bao nhiêu lần liên tiếp?",
+    "expected_answer": "Bị cảnh báo học tập 2 lần liên tiếp.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 25,
+    "evidence_quote": "Bị cảnh báo học tập 2 lần liên tiếp theo quy định tại Điểm a Khoản 2 Điều 23",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Điều kiện về số tín chỉ tích lũy tối thiểu trong học kỳ để sinh viên được xét học bổng khuyến khích học tập là gì?",
+    "expected_answer": "Đăng ký và tích lũy tối thiểu 15 tín chỉ trong học kỳ xét.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 26,
+    "evidence_quote": "Đăng ký và tích lũy tối thiểu 15 tín chỉ trong học kỳ xét học bổng",
+    "filter": {
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "dieu_kien",
+    "question": "Để được nhận làm đồ án hoặc khóa luận tốt nghiệp, sinh viên phải tích lũy tối thiểu bao nhiêu phần trăm số tín chỉ của chương trình và điểm CPA tối thiểu là bao nhiêu?",
+    "expected_answer": "Tích lũy tối thiểu 85% tổng số tín chỉ và điểm CPA đạt từ 2.00 trở lên.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 32,
+    "evidence_quote": "Tích lũy tối thiểu 85% tổng số tín chỉ của chương trình đào tạo; Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Điểm trung bình chung tích lũy toàn khóa CPA tối thiểu để sinh viên được xét công nhận tốt nghiệp đại học là bao nhiêu?",
+    "expected_answer": "CPA đạt từ 2.00 trở lên.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 34,
+    "evidence_quote": "Điểm trung bình chung tích lũy toàn khóa CPA đạt từ 2.00 trở lên (theo thang 4)",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "ngoai_le",
+    "question": "Sinh viên có điểm CPA đạt mức Xuất sắc sẽ bị hạ một bậc xếp loại tốt nghiệp xuống loại Giỏi trong những trường hợp nào?",
+    "expected_answer": "Khi khối lượng học lại vượt quá 5% tổng số tín chỉ hoặc đã bị kỷ luật từ mức cảnh cáo cấp trường trở lên.",
+    "gold_source_id": "quy-che-dao-tao-tin-chi-2024",
+    "gold_page": 35,
+    "evidence_quote": "học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo",
+    "filter": null
+  }
+]

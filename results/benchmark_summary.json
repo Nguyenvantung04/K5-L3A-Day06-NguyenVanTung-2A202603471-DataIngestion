@@ -1,0 +1,59 @@
+{
+  "A": {
+    "stats": {
+      "chunk_count": 91,
+      "time_sec": 4.478,
+      "cost": "$0.00"
+    },
+    "metrics": {
+      "dev_hit1": "5/15 (33.3%)",
+      "dev_hit3": "8/15 (53.3%)",
+      "dev_hit1_count": 5,
+      "dev_hit3_count": 8,
+      "dev_total": 15,
+      "test_hit1": "3/5 (60.0%)",
+      "test_hit3": "5/5 (100.0%)",
+      "test_hit1_count": 3,
+      "test_hit3_count": 5,
+      "test_total": 5
+    }
+  },
+  "B": {
+    "stats": {
+      "chunk_count": 73,
+      "time_sec": 3.621,
+      "cost": "$0.00"
+    },
+    "metrics": {
+      "dev_hit1": "3/15 (20.0%)",
+      "dev_hit3": "4/15 (26.7%)",
+      "dev_hit1_count": 3,
+      "dev_hit3_count": 4,
+      "dev_total": 15,
+      "test_hit1": "0/5 (0.0%)",
+      "test_hit3": "4/5 (80.0%)",
+      "test_hit1_count": 0,
+      "test_hit3_count": 4,
+      "test_total": 5
+    }
+  },
+  "C": {
+    "stats": {
+      "chunk_count": 73,
+      "time_sec": 0.161,
+      "cost": "$0.00"
+    },
+    "metrics": {
+      "dev_hit1": "3/15 (20.0%)",
+      "dev_hit3": "3/15 (20.0%)",
+      "dev_hit1_count": 3,
+      "dev_hit3_count": 3,
+      "dev_total": 15,
+      "test_hit1": "0/5 (0.0%)",
+      "test_hit3": "3/5 (60.0%)",
+      "test_hit1_count": 0,
+      "test_hit3_count": 3,
+      "test_total": 5
+    }
+  }
+}

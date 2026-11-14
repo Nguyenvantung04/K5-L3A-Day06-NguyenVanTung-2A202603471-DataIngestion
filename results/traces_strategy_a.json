@@ -1,0 +1,1648 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "question": "Khối lượng học tập toàn khóa tối thiểu đối với trình độ cử nhân là bao nhiêu tín chỉ?",
+    "expected_answer": "Tối thiểu là 120 tín chỉ.",
+    "gold_page": 2,
+    "evidence_quote": "Khối lượng học tập toàn khóa đối với trình độ cử nhân tối thiểu là 120 tín chỉ",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p03_fixed_01",
+        "page": 3,
+        "score": 0.7985,
+        "text": "thời gian thiết kế chuẩn:\na) Không quá 6 năm (12 học kỳ chính) đối với chương trình chuẩn 4 năm;\nb) Không quá 7.5 năm (15 học kỳ chính) đối với chương trình chuẩn 5 năm.\n3. Thời gian tạm dừng học tập có phép vì lý do thi hành nghĩa vụ quân sự hoặc lý do\nsức khỏe đặc biệt (có xác nhận của bệnh viện cấp huyện trở lên) không tính vào thời\ngian học tập tối đa toàn khóa.\nTrang 3 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "strategy": "A",
+          "char_count": 856,
+          "section": "Điều 3. Thời gian đào tạo chuẩn và thời gian tối đa",
+          "window_start": 450,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_length": 405,
+          "chunk_strategy": "fixed_size",
+          "window_end": 856,
+          "page": 3,
+          "source": "starter/data/corpus.pdf",
+          "chapter": "Chương I: Những Quy Định Chung",
+          "line_count": 14
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_00",
+        "page": 32,
+        "score": 0.7939,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương V: Thực tập, Khóa luận và Tốt nghiệp\nĐiều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp\nCHƯƠNG V: THỰC TẬP, KHÓA LUẬN VÀ TỐT NGHIỆP\nĐiều 30. Tiêu chuẩn làm đồ án và khóa luận tốt nghiệp\n1. Khóa luận hoặc đồ án tốt nghiệp có khối lượng từ 6 đến 10 tín chỉ tùy theo chương\ntrình cử nhân hay kỹ sư.\n2. Sinh viên được giao làm đồ án/khóa luận tốt nghiệp khi đáp ứng đồng thời các tiêu\nchí sau:\na) Tích lũy tối thiểu 85% tổng số tín chỉ của chương trình đào tạo;\nb) Điểm",
+        "metadata": {
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "page": 32,
+          "char_length": 499,
+          "line_count": 16,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "strategy": "A",
+          "window_end": 500,
+          "char_count": 912,
+          "chunk_strategy": "fixed_size",
+          "source": "starter/data/corpus.pdf",
+          "window_start": 0,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp"
+        },
+        "page_match": false,
+        "evidence_match": true,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p24_fixed_02",
+        "page": 24,
+        "score": 0.7917,
+        "text": "tham gia buổi tư vấn bắt buộc với Cố vấn học\ntập và chỉ được đăng ký tối đa 14 tín chỉ trong học kỳ tiếp theo.\nTrang 24 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "section": "Điều 23. Các tiêu chí bị áp dụng cảnh báo học vụ",
+          "char_count": 1048,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "window_start": 900,
+          "line_count": 17,
+          "window_end": 1048,
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "page": 24,
+          "strategy": "A",
+          "char_length": 148
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "question": "Thời gian học tập tối đa cho chương trình đào tạo chuẩn 4 năm là bao lâu?",
+    "expected_answer": "Không quá 6 năm (12 học kỳ chính).",
+    "gold_page": 3,
+    "evidence_quote": "Không quá 6 năm (12 học kỳ chính) đối với chương trình chuẩn 4 năm",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p03_fixed_01",
+        "page": 3,
+        "score": 0.8252,
+        "text": "thời gian thiết kế chuẩn:\na) Không quá 6 năm (12 học kỳ chính) đối với chương trình chuẩn 4 năm;\nb) Không quá 7.5 năm (15 học kỳ chính) đối với chương trình chuẩn 5 năm.\n3. Thời gian tạm dừng học tập có phép vì lý do thi hành nghĩa vụ quân sự hoặc lý do\nsức khỏe đặc biệt (có xác nhận của bệnh viện cấp huyện trở lên) không tính vào thời\ngian học tập tối đa toàn khóa.\nTrang 3 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "page": 3,
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "window_start": 450,
+          "chapter": "Chương I: Những Quy Định Chung",
+          "source": "starter/data/corpus.pdf",
+          "line_count": 14,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 3. Thời gian đào tạo chuẩn và thời gian tối đa",
+          "window_end": 856,
+          "char_length": 405,
+          "char_count": 856
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_01",
+        "page": 32,
+        "score": 0.7818,
+        "text": "tổng số tín chỉ của chương trình đào tạo;\nb) Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên;\nc) Không bị cảnh báo học tập hoặc nợ đọng quá 8 tín chỉ học phần bắt buộc.\n3. Sinh viên không đủ điều kiện làm khóa luận tốt nghiệp phải đăng ký học các học\nphần chuyên môn tự chọn thay thế có khối lượng tín chỉ tương đương.\n4. Thời gian hoàn thành khóa luận là 15 tuần kể từ ngày có quyết định giao đề tài\ncủa Hiệu trưởng.\nTrang 32 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "line_count": 16,
+          "char_count": 912,
+          "window_end": 912,
+          "window_start": 450,
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "char_length": 462,
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf",
+          "page": 32,
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p33_fixed_00",
+        "page": 33,
+        "score": 0.7812,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương V: Thực tập, Khóa luận và Tốt nghiệp\nĐiều 31. Quy trình bảo vệ và đánh giá đồ án tốt nghiệp\nCHƯƠNG V: THỰC TẬP, KHÓA LUẬN VÀ TỐT NGHIỆP\nĐiều 31. Đánh giá và bảo vệ khóa luận tốt nghiệp\n1. Khóa luận hoặc đồ án tốt nghiệp trước khi bảo vệ phải được kiểm tra đạo văn qua\nphần mềm chuyên dụng; tỷ lệ trùng lặp nội dung không được vượt quá 20%.\n2. Hội đồng chấm khóa luận tốt nghiệp gồm từ 3 đến 5 thành viên là các giảng viên\nhoặc chuyên gia có học vị thạc sĩ trở lên.\n3. C",
+        "metadata": {
+          "strategy": "A",
+          "section": "Điều 31. Quy trình bảo vệ và đánh giá đồ án tốt nghiệp",
+          "char_length": 500,
+          "char_count": 944,
+          "window_start": 0,
+          "line_count": 16,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "source": "starter/data/corpus.pdf",
+          "page": 33,
+          "chunk_strategy": "fixed_size",
+          "window_end": 500
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "question": "Một tín chỉ học phần lý thuyết được quy chuẩn bằng bao nhiêu tiết giảng dạy trên lớp?",
+    "expected_answer": "15 tiết giảng dạy trên lớp.",
+    "gold_page": 4,
+    "evidence_quote": "Một tín chỉ học tập lý thuyết được quy chuẩn bằng 15 tiết giảng dạy trên lớp",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p04_fixed_00",
+        "page": 4,
+        "score": 0.8031,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương I: Những Quy định chung\nĐiều 4. Định nghĩa và quy đổi tín chỉ\nCHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 4. Định nghĩa và quy chuẩn tính toán tín chỉ\n1. Một tín chỉ (TC) được tính tương đương với 50 giờ học tập định mức của sinh viên,\nbao gồm thời gian học trên lớp, thực hành tại phòng thí nghiệm và thời gian tự học có\nhướng dẫn.\n2. Một tín chỉ học tập lý thuyết được quy chuẩn bằng 15 tiết giảng dạy trên lớp và\ntối thiểu 30 giờ chuẩn bị cá nhân ngoài lớp.\n3. Một tín chỉ h",
+        "metadata": {
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_count": 844,
+          "chunk_strategy": "fixed_size",
+          "char_length": 500,
+          "window_start": 0,
+          "chapter": "Chương I: Những Quy Định Chung",
+          "source": "starter/data/corpus.pdf",
+          "strategy": "A",
+          "line_count": 15,
+          "page": 4,
+          "section": "Điều 4. Định nghĩa và quy đổi tín chỉ",
+          "window_end": 500
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p21_fixed_02",
+        "page": 21,
+        "score": 0.7866,
+        "text": "g bố kết quả phúc khảo không quá 15 ngày làm việc tính từ hạn\nchót nhận đơn.\nTrang 21 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "strategy": "A",
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "page": 21,
+          "source": "starter/data/corpus.pdf",
+          "char_length": 114,
+          "window_end": 1014,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_count": 1014,
+          "line_count": 16,
+          "section": "Điều 21. Quy trình nộp đơn và xử lý phúc khảo bài thi",
+          "window_start": 900,
+          "chunk_strategy": "fixed_size"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_01",
+        "page": 32,
+        "score": 0.7803,
+        "text": "tổng số tín chỉ của chương trình đào tạo;\nb) Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên;\nc) Không bị cảnh báo học tập hoặc nợ đọng quá 8 tín chỉ học phần bắt buộc.\n3. Sinh viên không đủ điều kiện làm khóa luận tốt nghiệp phải đăng ký học các học\nphần chuyên môn tự chọn thay thế có khối lượng tín chỉ tương đương.\n4. Thời gian hoàn thành khóa luận là 15 tuần kể từ ngày có quyết định giao đề tài\ncủa Hiệu trưởng.\nTrang 32 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "page": 32,
+          "char_count": 912,
+          "window_start": 450,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "char_length": 462,
+          "source": "starter/data/corpus.pdf",
+          "strategy": "A",
+          "chunk_strategy": "fixed_size",
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "window_end": 912,
+          "line_count": 16,
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "question": "Học phần tiên quyết khác với học phần học trước như thế nào?",
+    "expected_answer": "Học phần tiên quyết bắt buộc phải tích lũy đạt mới được học học phần sau, còn học phần học trước chỉ cần hoàn thành đánh giá.",
+    "gold_page": 5,
+    "evidence_quote": "Học phần A là tiên quyết của học phần B khi sinh viên bắt buộc phải tích lũy đạt học phần A mới được phép đăng ký học phần B",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p15_fixed_02",
+        "page": 15,
+        "score": 0.6442,
+        "text": "và\nđiểm thành phần cho sinh viên trước khi thi kết thúc học phần ít nhất 1 tuần.\nTrang 15 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "window_start": 900,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 15. Đánh giá học phần và cơ cấu điểm thành phần",
+          "strategy": "A",
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "char_count": 1018,
+          "line_count": 15,
+          "char_length": 118,
+          "window_end": 1018,
+          "page": 15
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p07_fixed_01",
+        "page": 7,
+        "score": 0.6439,
+        "text": "(học kỳ hè) được tổ chức theo nguyện vọng của sinh viên và khả năng\nđáp ứng của nhà trường, có thời lượng tối thiểu 5 tuần học tập thực tế và 1 tuần thi.\nHọc kỳ phụ nhằm giúp sinh viên học lại, học cải thiện điểm hoặc học vượt tiến độ.\n4. Nhà trường công bố lịch trình năm học và kế hoạch mở lớp ít nhất 4 tuần trước khi\nbắt đầu học kỳ mới để sinh viên chủ động đăng ký môn học.\nTrang 7 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "section": "Điều 7. Cấu trúc năm học và học kỳ",
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chunk_strategy": "fixed_size",
+          "source": "starter/data/corpus.pdf",
+          "char_length": 415,
+          "window_end": 865,
+          "strategy": "A",
+          "line_count": 14,
+          "char_count": 865,
+          "page": 7,
+          "window_start": 450
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p25_fixed_01",
+        "page": 25,
+        "score": 0.6399,
+        "text": "toàn khóa học;\nc) Vượt quá thời gian học tập tối đa toàn khóa theo quy định tại Điều 3 (vượt quá 6\nnăm đối với khóa 4 năm);\nd) Bị kỷ luật ở mức buộc thôi học do vi phạm pháp luật hoặc vi phạm quy chế thi cử\nnghiêm trọng;\nđ) Tự ý bỏ học không đăng ký học phần trong 1 học kỳ chính mà không có lý do chính\nđáng được chấp thuận.\n2. Quyết định buộc thôi học do Hiệu trưởng ký ban hành trên cơ sở đề xuất của Hội\nđồng Khen thưởng và Kỷ luật trường.\n3. Sinh viên bị buộc thôi học được cấp giấy chứng nhận k",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "window_end": 950,
+          "strategy": "A",
+          "page": 25,
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "section": "Điều 24. Các trường hợp sinh viên bị buộc thôi học",
+          "source": "starter/data/corpus.pdf",
+          "char_count": 1043,
+          "char_length": 500,
+          "line_count": 18,
+          "window_start": 450
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "question": "Chuẩn đầu ra ngoại ngữ tối thiểu đối với sinh viên tốt nghiệp chương trình đại học chính quy là gì?",
+    "expected_answer": "Tương đương Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (TOEIC 450, IELTS 4.5, hoặc B1).",
+    "gold_page": 6,
+    "evidence_quote": "đạt chuẩn đầu ra ngoại ngữ tương đương Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p06_fixed_00",
+        "page": 6,
+        "score": 0.7687,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương I: Những Quy định chung\nĐiều 6. Chuẩn đầu ra ngoại ngữ và công nghệ thông tin\nCHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 6. Yêu cầu chuẩn đầu ra ngoại ngữ và năng lực số\n1. Tất cả sinh viên tốt nghiệp trình độ đại học chính quy phải đạt chuẩn đầu ra\nngoại ngữ tương đương Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam\n(tương đương TOEIC 450, IELTS 4.5, hoặc B1 CEFR quốc tế).\n2. Đối với các chương trình chất lượng cao, chương trình đào tạo bằng tiếng Anh,\nchuẩn",
+        "metadata": {
+          "window_end": 500,
+          "window_start": 0,
+          "section": "Điều 6. Chuẩn đầu ra ngoại ngữ và công nghệ thông tin",
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "char_count": 976,
+          "page": 6,
+          "char_length": 500,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương I: Những Quy Định Chung",
+          "line_count": 16
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p06_fixed_01",
+        "page": 6,
+        "score": 0.7385,
+        "text": "ng cao, chương trình đào tạo bằng tiếng Anh,\nchuẩn đầu ra ngoại ngữ tối thiểu là Bậc 4 (tương đương IELTS 6.0 hoặc TOEIC 650 quốc\ntế).\n3. Chuẩn kỹ năng sử dụng công nghệ thông tin: Sinh viên phải đạt chuẩn kỹ năng ứng\ndụng CNTT cơ bản theo quy định hiện hành của Bộ Thông tin và Truyền thông trước khi\nđăng ký làm đồ án tốt nghiệp.\n4. Chứng chỉ ngoại ngữ và tin học nộp để xét miễn giảm hoặc công nhận chuẩn đầu ra\nphải còn thời hạn trong vòng 2 năm tính đến ngày nộp hồ sơ xét tốt nghiệp.\nTrang 6 /",
+        "metadata": {
+          "chapter": "Chương I: Những Quy Định Chung",
+          "line_count": 16,
+          "window_start": 450,
+          "page": 6,
+          "window_end": 950,
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_count": 976,
+          "section": "Điều 6. Chuẩn đầu ra ngoại ngữ và công nghệ thông tin",
+          "strategy": "A",
+          "char_length": 499,
+          "source": "starter/data/corpus.pdf"
+        },
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p05_fixed_00",
+        "page": 5,
+        "score": 0.7345,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương I: Những Quy định chung\nĐiều 5. Phân loại và quan hệ giữa các học phần\nCHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 5. Phân loại học phần và điều kiện ràng buộc\n1. Học phần bắt buộc: Là học phần chứa đựng những kiến thức cốt lõi của ngành và\nchuyên ngành đào tạo, mọi sinh viên theo học ngành đó đều bắt buộc phải hoàn thành và\nđạt điểm đạt.\n2. Học phần tự chọn có hướng dẫn: Là học phần chứa đựng kiến thức chuyên sâu nhằm đa\ndạng hóa định hướng nghề nghiệp, sinh viên được tự",
+        "metadata": {
+          "window_start": 0,
+          "page": 5,
+          "window_end": 500,
+          "section": "Điều 5. Phân loại và quan hệ giữa các học phần",
+          "source": "starter/data/corpus.pdf",
+          "char_count": 1068,
+          "strategy": "A",
+          "line_count": 18,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương I: Những Quy Định Chung",
+          "char_length": 499,
+          "chunk_strategy": "fixed_size"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "question": "Số tín chỉ tối thiểu và tối đa mà sinh viên được đăng ký trong mỗi học kỳ chính là bao nhiêu?",
+    "expected_answer": "Tối thiểu 12 tín chỉ và tối đa 24 tín chỉ.",
+    "gold_page": 8,
+    "evidence_quote": "Khối lượng học tập tối thiểu: 12 tín chỉ trong mỗi học kỳ chính",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p07_fixed_01",
+        "page": 7,
+        "score": 0.7855,
+        "text": "(học kỳ hè) được tổ chức theo nguyện vọng của sinh viên và khả năng\nđáp ứng của nhà trường, có thời lượng tối thiểu 5 tuần học tập thực tế và 1 tuần thi.\nHọc kỳ phụ nhằm giúp sinh viên học lại, học cải thiện điểm hoặc học vượt tiến độ.\n4. Nhà trường công bố lịch trình năm học và kế hoạch mở lớp ít nhất 4 tuần trước khi\nbắt đầu học kỳ mới để sinh viên chủ động đăng ký môn học.\nTrang 7 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 7. Cấu trúc năm học và học kỳ",
+          "window_start": 450,
+          "window_end": 865,
+          "source": "starter/data/corpus.pdf",
+          "char_length": 415,
+          "chunk_strategy": "fixed_size",
+          "line_count": 14,
+          "char_count": 865,
+          "page": 7,
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "strategy": "A"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p08_fixed_00",
+        "page": 8,
+        "score": 0.7757,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương II: Tổ chức Đào tạo và Quản lý Học vụ\nĐiều 8. Quy định về hạn mức đăng ký tín chỉ\nCHƯƠNG II: TỔ CHỨC ĐÀO TẠO VÀ QUẢN LÝ HỌC VỤ\nĐiều 8. Hạn mức đăng ký khối lượng học tập mỗi học kỳ\n1. Trong mỗi học kỳ chính, khối lượng học tập tối thiểu và tối đa mà sinh viên được\nphép đăng ký được quy định như sau:\na) Khối lượng học tập tối thiểu: 12 tín chỉ trong mỗi học kỳ chính (trừ học kỳ cuối\nkhóa của khóa học);\nb) Khối lượng học tập tối đa: 24 tín chỉ trong mỗi học kỳ chính.",
+        "metadata": {
+          "strategy": "A",
+          "line_count": 15,
+          "char_length": 500,
+          "source": "starter/data/corpus.pdf",
+          "window_end": 500,
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 8. Quy định về hạn mức đăng ký tín chỉ",
+          "page": 8,
+          "char_count": 940,
+          "window_start": 0,
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p09_fixed_00",
+        "page": 9,
+        "score": 0.773,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương II: Tổ chức Đào tạo và Quản lý Học vụ\nĐiều 9. Rút học phần và hủy đăng ký môn học\nCHƯƠNG II: TỔ CHỨC ĐÀO TẠO VÀ QUẢN LÝ HỌC VỤ\nĐiều 9. Rút bớt học phần và hủy kết quả đăng ký\n1. Việc rút bớt học phần trong danh sách đã đăng ký chỉ được chấp nhận trong vòng 2\ntuần đầu tiên tính từ ngày bắt đầu học kỳ chính (hoặc trong tuần đầu tiên của học kỳ\nphụ).\n2. Sinh viên xin rút học phần phải đảm bảo khối lượng học tập còn lại sau khi rút\nkhông ít hơn số tín chỉ tối thiểu the",
+        "metadata": {
+          "window_end": 500,
+          "char_length": 500,
+          "section": "Điều 9. Rút học phần và hủy đăng ký môn học",
+          "char_count": 932,
+          "window_start": 0,
+          "chunk_strategy": "fixed_size",
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "page": 9,
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "line_count": 15
+        },
+        "page_match": false,
+        "evidence_match": true,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "question": "Sinh viên đang bị cảnh báo học tập thì được đăng ký tối đa bao nhiêu tín chỉ trong học kỳ kế tiếp?",
+    "expected_answer": "Tối đa 14 tín chỉ.",
+    "gold_page": 8,
+    "evidence_quote": "Sinh viên đang trong tình trạng bị cảnh báo học tập chỉ được phép đăng ký tối đa 14 tín chỉ trong học kỳ kế tiếp",
+    "applied_filter": {
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ"
+    },
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p24_fixed_00",
+        "page": 24,
+        "score": 0.8465,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng\nĐiều 23. Các tiêu chí bị áp dụng cảnh báo học vụ\nCHƯƠNG IV: CẢNH BÁO HỌC VỤ, BUỘC THÔI HỌC VÀ KHEN THƯỞNG\nĐiều 23. Tiêu chí cảnh báo học vụ theo tiến độ học tập\n1. Cảnh báo học tập được thực hiện theo từng học kỳ chính nhằm thông báo để sinh\nviên kịp thời chấn chỉnh thái độ và kết quả học tập.\n2. Sinh viên bị cảnh báo kết quả học tập nếu rơi vào một trong các trường hợp sau:\na) Điểm trung bình chung tích lũy (CPA) k",
+        "metadata": {
+          "char_count": 1048,
+          "source": "starter/data/corpus.pdf",
+          "window_start": 0,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chunk_strategy": "fixed_size",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "line_count": 17,
+          "page": 24,
+          "window_end": 500,
+          "char_length": 500,
+          "section": "Điều 23. Các tiêu chí bị áp dụng cảnh báo học vụ",
+          "strategy": "A"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p27_fixed_02",
+        "page": 27,
+        "score": 0.8422,
+        "text": "ch vẫn phải đảm bảo tiến độ học tập và không được\nxét miễn học phí cho các học phần đăng ký học lại do bị điểm F.\nTrang 27 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "window_start": 900,
+          "page": 27,
+          "window_end": 1051,
+          "char_count": 1051,
+          "line_count": 17,
+          "section": "Điều 26. Chính sách miễn giảm học phí và trợ cấp xã hội",
+          "char_length": 151,
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "strategy": "A",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p08_fixed_01",
+        "page": 8,
+        "score": 0.8362,
+        "text": "học tập tối đa: 24 tín chỉ trong mỗi học kỳ chính.\n2. Sinh viên đang trong tình trạng bị cảnh báo học tập chỉ được phép đăng ký tối đa\n14 tín chỉ trong học kỳ kế tiếp để tập trung nâng cao kết quả học tập.\n3. Trong học kỳ phụ, sinh viên được đăng ký học tập tối đa không quá 8 tín chỉ.\n4. Sinh viên có điểm trung bình chung tích lũy (CPA) từ 3.20 trở lên có thể làm đơn\nxin phép Trưởng phòng Đào tạo để đăng ký thêm tối đa 3 tín chỉ vượt khung quy định.\nTrang 8 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "strategy": "A",
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "page": 8,
+          "section": "Điều 8. Quy định về hạn mức đăng ký tín chỉ",
+          "chunk_strategy": "fixed_size",
+          "char_count": 940,
+          "window_start": 450,
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "line_count": 15,
+          "window_end": 940,
+          "char_length": 490
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "question": "Thời hạn cho phép rút bớt học phần đã đăng ký trong học kỳ chính là bao lâu?",
+    "expected_answer": "Trong vòng 2 tuần đầu tiên tính từ ngày bắt đầu học kỳ chính.",
+    "gold_page": 9,
+    "evidence_quote": "chỉ được chấp nhận trong vòng 2 tuần đầu tiên tính từ ngày bắt đầu học kỳ chính",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p21_fixed_02",
+        "page": 21,
+        "score": 0.742,
+        "text": "g bố kết quả phúc khảo không quá 15 ngày làm việc tính từ hạn\nchót nhận đơn.\nTrang 21 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_end": 1014,
+          "section": "Điều 21. Quy trình nộp đơn và xử lý phúc khảo bài thi",
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "source": "starter/data/corpus.pdf",
+          "char_count": 1014,
+          "line_count": 16,
+          "chunk_strategy": "fixed_size",
+          "window_start": 900,
+          "page": 21,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_length": 114,
+          "strategy": "A"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p15_fixed_02",
+        "page": 15,
+        "score": 0.7307,
+        "text": "và\nđiểm thành phần cho sinh viên trước khi thi kết thúc học phần ít nhất 1 tuần.\nTrang 15 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "page": 15,
+          "source": "starter/data/corpus.pdf",
+          "strategy": "A",
+          "window_start": 900,
+          "chunk_strategy": "fixed_size",
+          "window_end": 1018,
+          "line_count": 15,
+          "char_length": 118,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 15. Đánh giá học phần và cơ cấu điểm thành phần",
+          "char_count": 1018
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p27_fixed_02",
+        "page": 27,
+        "score": 0.721,
+        "text": "ch vẫn phải đảm bảo tiến độ học tập và không được\nxét miễn học phí cho các học phần đăng ký học lại do bị điểm F.\nTrang 27 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_end": 1051,
+          "window_start": 900,
+          "char_length": 151,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "line_count": 17,
+          "section": "Điều 26. Chính sách miễn giảm học phí và trợ cấp xã hội",
+          "char_count": 1051,
+          "page": 27
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "question": "Sinh viên được phép đăng ký học cải thiện điểm đối với các học phần đạt điểm mấy?",
+    "expected_answer": "Chỉ được phép học cải thiện đối với điểm D, D+ hoặc C; không cho phép đối với điểm B trở lên.",
+    "gold_page": 10,
+    "evidence_quote": "Sinh viên chỉ được phép đăng ký học cải thiện đối với các học phần đã đạt điểm D, D+ hoặc C",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p15_fixed_02",
+        "page": 15,
+        "score": 0.7992,
+        "text": "và\nđiểm thành phần cho sinh viên trước khi thi kết thúc học phần ít nhất 1 tuần.\nTrang 15 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 15. Đánh giá học phần và cơ cấu điểm thành phần",
+          "source": "starter/data/corpus.pdf",
+          "window_end": 1018,
+          "window_start": 900,
+          "strategy": "A",
+          "char_length": 118,
+          "line_count": 15,
+          "page": 15,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "chunk_strategy": "fixed_size",
+          "char_count": 1018
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p10_fixed_01",
+        "page": 10,
+        "score": 0.7802,
+        "text": "inh viên có thể đăng ký học lại chính học\nphần đó hoặc chọn học một học phần tự chọn khác cùng nhóm kiến thức để bù đủ số tín\nchỉ yêu cầu.\n3. Học cải thiện điểm:\na) Sinh viên chỉ được phép đăng ký học cải thiện đối với các học phần đã đạt điểm D,\nD+ hoặc C;\nb) Không cho phép học cải thiện điểm đối với các học phần đã đạt từ điểm B trở lên;\nc) Điểm đánh giá cao nhất trong các lần học sẽ là điểm số chính thức được lưu vào\nbảng điểm tích lũy toàn khóa.\nTrang 10 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf",
+          "char_count": 941,
+          "line_count": 17,
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "window_end": 941,
+          "window_start": 450,
+          "char_length": 491,
+          "chunk_strategy": "fixed_size",
+          "page": 10,
+          "section": "Điều 10. Học lại và đăng ký học cải thiện điểm",
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p27_fixed_01",
+        "page": 27,
+        "score": 0.7713,
+        "text": "khuyết tật nặng; sinh viên mồ côi cả cha lẫn mẹ không nơi nương tựa;\nb) Giảm 70% học phí đối với: Sinh viên dân tộc thiểu số tại các thôn bản đặc biệt\nkhó khăn, vùng sâu vùng xa;\nc) Giảm 50% học phí đối với: Sinh viên là con cán bộ, công nhân viên chức bị tai nạn\nlao động hoặc mắc bệnh nghề nghiệp.\n2. Hồ sơ xét miễn giảm học phí phải nộp về Phòng Công tác Sinh viên trong vòng 30\nngày kể từ ngày bắt đầu học kỳ mới.\n3. Sinh viên thuộc diện chính sách vẫn phải đảm bảo tiến độ học tập và không được",
+        "metadata": {
+          "page": 27,
+          "section": "Điều 26. Chính sách miễn giảm học phí và trợ cấp xã hội",
+          "char_count": 1051,
+          "source": "starter/data/corpus.pdf",
+          "strategy": "A",
+          "chunk_strategy": "fixed_size",
+          "line_count": 17,
+          "window_end": 950,
+          "window_start": 450,
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_length": 499
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "question": "Điều kiện về điểm CPA để sinh viên được đăng ký học chương trình đào tạo thứ hai (ngành kép) là gì?",
+    "expected_answer": "Điểm CPA của chương trình thứ nhất đạt từ 2.80 trở lên (hoặc 2.50 nếu rèn luyện Tốt).",
+    "gold_page": 13,
+    "evidence_quote": "Điểm trung bình tích lũy CPA của chương trình thứ nhất đạt từ 2.80 trở lên",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p06_fixed_00",
+        "page": 6,
+        "score": 0.7622,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương I: Những Quy định chung\nĐiều 6. Chuẩn đầu ra ngoại ngữ và công nghệ thông tin\nCHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 6. Yêu cầu chuẩn đầu ra ngoại ngữ và năng lực số\n1. Tất cả sinh viên tốt nghiệp trình độ đại học chính quy phải đạt chuẩn đầu ra\nngoại ngữ tương đương Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam\n(tương đương TOEIC 450, IELTS 4.5, hoặc B1 CEFR quốc tế).\n2. Đối với các chương trình chất lượng cao, chương trình đào tạo bằng tiếng Anh,\nchuẩn",
+        "metadata": {
+          "line_count": 16,
+          "source": "starter/data/corpus.pdf",
+          "window_end": 500,
+          "strategy": "A",
+          "chapter": "Chương I: Những Quy Định Chung",
+          "char_length": 500,
+          "page": 6,
+          "window_start": 0,
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_count": 976,
+          "section": "Điều 6. Chuẩn đầu ra ngoại ngữ và công nghệ thông tin"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p07_fixed_01",
+        "page": 7,
+        "score": 0.7582,
+        "text": "(học kỳ hè) được tổ chức theo nguyện vọng của sinh viên và khả năng\nđáp ứng của nhà trường, có thời lượng tối thiểu 5 tuần học tập thực tế và 1 tuần thi.\nHọc kỳ phụ nhằm giúp sinh viên học lại, học cải thiện điểm hoặc học vượt tiến độ.\n4. Nhà trường công bố lịch trình năm học và kế hoạch mở lớp ít nhất 4 tuần trước khi\nbắt đầu học kỳ mới để sinh viên chủ động đăng ký môn học.\nTrang 7 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "char_length": 415,
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf",
+          "section": "Điều 7. Cấu trúc năm học và học kỳ",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "window_end": 865,
+          "page": 7,
+          "window_start": 450,
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "line_count": 14,
+          "char_count": 865
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p12_fixed_00",
+        "page": 12,
+        "score": 0.7565,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương II: Tổ chức Đào tạo và Quản lý Học vụ\nĐiều 12. Điều kiện chuyển ngành và chuyển cơ sở đào tạo\nCHƯƠNG II: TỔ CHỨC ĐÀO TẠO VÀ QUẢN LÝ HỌC VỤ\nĐiều 12. Chuyển ngành học, chương trình và chuyển trường\n1. Sinh viên được xem xét chuyển ngành đào tạo hoặc chuyển chương trình học khi đáp\nứng đầy đủ các điều kiện sau:\na) Hoàn thành năm học thứ nhất và có điểm CPA từ 2.50 trở lên;\nb) Đạt ngưỡng điểm trúng tuyển của ngành chuyển đến trong cùng kỳ tuyển sinh đầu vào;\nc) Không t",
+        "metadata": {
+          "section": "Điều 12. Điều kiện chuyển ngành và chuyển cơ sở đào tạo",
+          "window_start": 0,
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "line_count": 17,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "page": 12,
+          "char_count": 1023,
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf",
+          "char_length": 500,
+          "window_end": 500,
+          "chunk_strategy": "fixed_size"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "question": "Điểm thi kết thúc học phần chiếm tỷ trọng bao nhiêu phần trăm trong tổng điểm học phần lý thuyết?",
+    "expected_answer": "Chiếm từ 50% đến 60% tổng điểm học phần.",
+    "gold_page": 15,
+    "evidence_quote": "Điểm thi kết thúc học phần: Chiếm từ 50% đến 60% tổng điểm học phần",
+    "applied_filter": {
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm"
+    },
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p15_fixed_02",
+        "page": 15,
+        "score": 0.784,
+        "text": "và\nđiểm thành phần cho sinh viên trước khi thi kết thúc học phần ít nhất 1 tuần.\nTrang 15 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_start": 900,
+          "chunk_strategy": "fixed_size",
+          "window_end": 1018,
+          "line_count": 15,
+          "page": 15,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "section": "Điều 15. Đánh giá học phần và cơ cấu điểm thành phần",
+          "char_count": 1018,
+          "char_length": 118,
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "strategy": "A"
+        },
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p02_fixed_01",
+        "page": 2,
+        "score": 0.7284,
+        "text": ",\nđối với trình độ kỹ sư hoặc cử nhân chuyên sâu đặc thù tối thiểu là 150 tín chỉ.\n3. Cấu trúc chương trình bao gồm ba khối kiến thức chính:\na) Khối kiến thức giáo dục đại cương: chiếm từ 25% đến 30% tổng khối lượng kiến thức;\nb) Khối kiến thức cơ sở ngành và chuyên ngành: chiếm từ 55% đến 65% tổng khối lượng\nkiến thức;\nc) Khối kiến thức thực tập tốt nghiệp và đồ án/khóa luận tốt nghiệp: chiếm tối thiểu\n10% tổng khối lượng kiến thức toàn khóa.\nTrang 2 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_end": 934,
+          "section": "Điều 2. Chương trình đào tạo và cấu trúc khối lượng kiến thức",
+          "page": 2,
+          "char_length": 484,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_count": 934,
+          "window_start": 450,
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "chapter": "Chương I: Những Quy Định Chung",
+          "line_count": 15,
+          "strategy": "A"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_01",
+        "page": 32,
+        "score": 0.7263,
+        "text": "tổng số tín chỉ của chương trình đào tạo;\nb) Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên;\nc) Không bị cảnh báo học tập hoặc nợ đọng quá 8 tín chỉ học phần bắt buộc.\n3. Sinh viên không đủ điều kiện làm khóa luận tốt nghiệp phải đăng ký học các học\nphần chuyên môn tự chọn thay thế có khối lượng tín chỉ tương đương.\n4. Thời gian hoàn thành khóa luận là 15 tuần kể từ ngày có quyết định giao đề tài\ncủa Hiệu trưởng.\nTrang 32 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "page": 32,
+          "strategy": "A",
+          "char_count": 912,
+          "line_count": 16,
+          "chunk_strategy": "fixed_size",
+          "char_length": 462,
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "window_end": 912,
+          "source": "starter/data/corpus.pdf",
+          "window_start": 450
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "question": "Sinh viên cần đáp ứng điều kiện chuyên cần nào để được dự thi kết thúc học phần?",
+    "expected_answer": "Tham gia tối thiểu 80% tổng số tiết lý thuyết và 100% các buổi thực hành/thí nghiệm.",
+    "gold_page": 16,
+    "evidence_quote": "Tham gia tối thiểu 80% tổng số tiết giảng dạy lý thuyết và 100% các buổi thực hành/thí nghiệm",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p15_fixed_02",
+        "page": 15,
+        "score": 0.7664,
+        "text": "và\nđiểm thành phần cho sinh viên trước khi thi kết thúc học phần ít nhất 1 tuần.\nTrang 15 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "char_length": 118,
+          "window_start": 900,
+          "page": 15,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "section": "Điều 15. Đánh giá học phần và cơ cấu điểm thành phần",
+          "strategy": "A",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "source": "starter/data/corpus.pdf",
+          "line_count": 15,
+          "chunk_strategy": "fixed_size",
+          "char_count": 1018,
+          "window_end": 1018
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p14_fixed_00",
+        "page": 14,
+        "score": 0.7532,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương II: Tổ chức Đào tạo và Quản lý Học vụ\nĐiều 14. Quy mô lớp học phần và hủy lớp học phần\nCHƯƠNG II: TỔ CHỨC ĐÀO TẠO VÀ QUẢN LÝ HỌC VỤ\nĐiều 14. Quy định về sĩ số lớp học phần\n1. Quy mô số lượng sinh viên tối thiểu của một lớp học phần được quy định cụ thể:\na) Lớp học phần lý thuyết đại cương: Tối thiểu 40 sinh viên;\nb) Lớp học phần cơ sở ngành và chuyên ngành: Tối thiểu 25 sinh viên;\nc) Lớp học phần chuyên ngành hẹp, thực hành chuyên sâu hoặc đồ án: Tối thiểu 15 sinh",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "char_count": 935,
+          "window_end": 500,
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "window_start": 0,
+          "page": 14,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "line_count": 16,
+          "source": "starter/data/corpus.pdf",
+          "section": "Điều 14. Quy mô lớp học phần và hủy lớp học phần",
+          "strategy": "A",
+          "char_length": 499
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p05_fixed_00",
+        "page": 5,
+        "score": 0.7522,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương I: Những Quy định chung\nĐiều 5. Phân loại và quan hệ giữa các học phần\nCHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 5. Phân loại học phần và điều kiện ràng buộc\n1. Học phần bắt buộc: Là học phần chứa đựng những kiến thức cốt lõi của ngành và\nchuyên ngành đào tạo, mọi sinh viên theo học ngành đó đều bắt buộc phải hoàn thành và\nđạt điểm đạt.\n2. Học phần tự chọn có hướng dẫn: Là học phần chứa đựng kiến thức chuyên sâu nhằm đa\ndạng hóa định hướng nghề nghiệp, sinh viên được tự",
+        "metadata": {
+          "char_count": 1068,
+          "char_length": 499,
+          "window_end": 500,
+          "source": "starter/data/corpus.pdf",
+          "strategy": "A",
+          "section": "Điều 5. Phân loại và quan hệ giữa các học phần",
+          "page": 5,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương I: Những Quy Định Chung",
+          "chunk_strategy": "fixed_size",
+          "line_count": 18,
+          "window_start": 0
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "question": "Điểm tổng kết thang 10 từ 8.5 đến 10.0 quy đổi sang điểm chữ và thang 4 là bao nhiêu?",
+    "expected_answer": "Điểm chữ A, tương đương 4.0 trên thang điểm 4.",
+    "gold_page": 17,
+    "evidence_quote": "Từ 8.5 đến 10.0: Điểm A (Tương đương 4.0 trên thang 4) - Xếp loại Xuất sắc",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p17_fixed_00",
+        "page": 17,
+        "score": 0.7693,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương III: Đánh giá Kết quả Học tập và Thang điểm\nĐiều 17. Thang điểm đánh giá và bảng quy đổi điểm số\nCHƯƠNG III: ĐÁNH GIÁ KẾT QUẢ HỌC TẬP VÀ THANG ĐIỂM\nĐiều 17. Bảng quy đổi thang điểm 10, thang điểm chữ và thang điểm 4\n1. Điểm học phần được chấm theo thang điểm 10 (làm tròn đến một chữ số thập phân),\nsau đó được quy đổi chính thức sang thang điểm chữ và thang điểm 4 theo bảng chuẩn\nsau:\nTừ 8.5 đến 10.0: Điểm A (Tương đương 4.0 trên thang 4) Xếp loại Xuất sắc;\nTừ 8.0 đ",
+        "metadata": {
+          "char_length": 500,
+          "chunk_strategy": "fixed_size",
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "window_start": 0,
+          "strategy": "A",
+          "window_end": 500,
+          "section": "Điều 17. Thang điểm đánh giá và bảng quy đổi điểm số",
+          "char_count": 1181,
+          "page": 17,
+          "line_count": 18,
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p34_fixed_01",
+        "page": 34,
+        "score": 0.7514,
+        "text": "heo thang 4);\nc) Đạt chuẩn đầu ra về ngoại ngữ và chuẩn kỹ năng công nghệ thông tin theo Điều 6;\nd) Đạt chứng chỉ Giáo dục thể chất và chứng chỉ Giáo dục quốc phòng an ninh;\nđ) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không\nđang trong thời gian bị kỷ luật từ mức đình chỉ học tập trở lên.\n2. Hội đồng xét tốt nghiệp họp định kỳ mỗi năm 3 đợt (tháng 3, tháng 6 và tháng 10)\nđể xem xét hồ sơ của sinh viên.\nTrang 34 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "section": "Điều 32. Điều kiện xét và công nhận tốt nghiệp đại học",
+          "page": 34,
+          "window_start": 450,
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "line_count": 15,
+          "strategy": "A",
+          "char_length": 473,
+          "char_count": 923,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "window_end": 923,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p17_fixed_02",
+        "page": 17,
+        "score": 0.7482,
+        "text": "1.0 trên thang 4) Xếp loại Đạt tối thiểu;\nDưới 4.0: Điểm F (Tương đương 0.0 trên thang 4) Xếp loại Không đạt (Kém).\n2. Các điểm chữ từ A đến D được tính là đạt và được tích lũy tín chỉ. Điểm F không\nđược tính tích lũy tín chỉ và phải học lại.\nTrang 17 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_start": 900,
+          "section": "Điều 17. Thang điểm đánh giá và bảng quy đổi điểm số",
+          "char_count": 1181,
+          "char_length": 280,
+          "chunk_strategy": "fixed_size",
+          "line_count": 18,
+          "source": "starter/data/corpus.pdf",
+          "page": 17,
+          "window_end": 1181,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "strategy": "A"
+        },
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "question": "Điểm số của các học phần Giáo dục thể chất và Giáo dục quốc phòng có tính vào điểm GPA hay CPA không?",
+    "expected_answer": "Không tính vào GPA và CPA, chỉ dùng để xét điều kiện tốt nghiệp.",
+    "gold_page": 18,
+    "evidence_quote": "điểm của các học phần này không tính vào GPA và CPA",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p18_fixed_01",
+        "page": 18,
+        "score": 0.8057,
+        "text": "hỉ học phần) / Tổng số\ntín chỉ tham gia tính điểm.\n2. Kết quả GPA và CPA được làm tròn đến hai chữ số thập phân sau dấu phẩy.\n3. Các học phần điều kiện bao gồm: Giáo dục thể chất, Giáo dục quốc phòng an ninh,\nvà Chuẩn kỹ năng công nghệ thông tin chỉ dùng để xét điều kiện tốt nghiệp, điểm của\ncác học phần này không tính vào GPA và CPA.\n4. Điểm của các học phần học cải thiện được cập nhật thay thế cho điểm cũ khi tính\nđiểm CPA tích lũy toàn khóa.\nTrang 18 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "char_length": 486,
+          "line_count": 15,
+          "page": 18,
+          "window_start": 450,
+          "source": "starter/data/corpus.pdf",
+          "char_count": 936,
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "window_end": 936,
+          "section": "Điều 18. Phương pháp tính điểm trung bình học kỳ và tích lũy"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p22_fixed_01",
+        "page": 22,
+        "score": 0.7353,
+        "text": "giá bổ sung trong vòng 1 học kỳ\nchính tiếp theo. Quá thời hạn này, điểm I tự động chuyển đổi thành điểm F.\n2. Điểm X (Chưa nhận được kết quả): Áp dụng khi dữ liệu điểm chưa kịp chuyển giao từ\ncơ sở liên kết đào tạo hoặc trường đối tác quốc tế.\n3. Điểm R (Retake/Exempted): Áp dụng cho các học phần được công nhận miễn trừ hoặc\nchuyển đổi điểm tương đương từ trường đại học khác hoặc chương trình trao đổi sinh\nviên.\n4. Các điểm I, X, R không được tính vào điểm trung bình GPA và CPA tại học kỳ cấp\nđ",
+        "metadata": {
+          "page": 22,
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "line_count": 17,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "window_start": 450,
+          "window_end": 950,
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "char_count": 992,
+          "char_length": 499,
+          "section": "Điều 22. Quy định về các ký hiệu điểm chữ đặc biệt I, X, R"
+        },
+        "page_match": false,
+        "evidence_match": true,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p22_fixed_02",
+        "page": 22,
+        "score": 0.7214,
+        "text": "nh vào điểm trung bình GPA và CPA tại học kỳ cấp\nđiểm.\nTrang 22 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_start": 900,
+          "char_count": 992,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "source": "starter/data/corpus.pdf",
+          "section": "Điều 22. Quy định về các ký hiệu điểm chữ đặc biệt I, X, R",
+          "page": 22,
+          "window_end": 992,
+          "chunk_strategy": "fixed_size",
+          "char_length": 92,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "strategy": "A",
+          "line_count": 17
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "question": "Sinh viên năm thứ nhất có điểm CPA dưới bao nhiêu thì bị áp dụng cảnh báo học vụ?",
+    "expected_answer": "CPA dưới 1.20.",
+    "gold_page": 24,
+    "evidence_quote": "Dưới 1.20 đối với sinh viên năm thứ nhất",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p13_fixed_01",
+        "page": 13,
+        "score": 0.7435,
+        "text": "CPA của chương trình thứ nhất đạt từ 2.80 trở lên (hoặc\ntừ 2.50 trở lên nếu xếp loại rèn luyện Tốt);\nc) Không bị cảnh báo học tập ở chương trình thứ nhất tại thời điểm đăng ký.\n2. Sinh viên học cùng lúc hai chương trình được công nhận tương đương và bảo lưu các\nhọc phần đại cương và cơ sở có nội dung và số tín chỉ tương đương.\n3. Trong quá trình học, nếu sinh viên bị điểm CPA chương trình thứ nhất tụt xuống\ndưới 2.00 thì bắt buộc phải dừng học chương trình thứ hai ở học kỳ kế tiếp.\nTrang 13 / 3",
+        "metadata": {
+          "char_count": 975,
+          "line_count": 15,
+          "source": "starter/data/corpus.pdf",
+          "window_end": 950,
+          "section": "Điều 13. Học cùng lúc hai chương trình đào tạo",
+          "char_length": 499,
+          "strategy": "A",
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "page": 13,
+          "window_start": 450
+        },
+        "page_match": false,
+        "evidence_match": true,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p15_fixed_02",
+        "page": 15,
+        "score": 0.7282,
+        "text": "và\nđiểm thành phần cho sinh viên trước khi thi kết thúc học phần ít nhất 1 tuần.\nTrang 15 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "strategy": "A",
+          "char_length": 118,
+          "window_end": 1018,
+          "source": "starter/data/corpus.pdf",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "page": 15,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "window_start": 900,
+          "section": "Điều 15. Đánh giá học phần và cơ cấu điểm thành phần",
+          "line_count": 15,
+          "chunk_strategy": "fixed_size",
+          "char_count": 1018
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p24_fixed_00",
+        "page": 24,
+        "score": 0.7282,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng\nĐiều 23. Các tiêu chí bị áp dụng cảnh báo học vụ\nCHƯƠNG IV: CẢNH BÁO HỌC VỤ, BUỘC THÔI HỌC VÀ KHEN THƯỞNG\nĐiều 23. Tiêu chí cảnh báo học vụ theo tiến độ học tập\n1. Cảnh báo học tập được thực hiện theo từng học kỳ chính nhằm thông báo để sinh\nviên kịp thời chấn chỉnh thái độ và kết quả học tập.\n2. Sinh viên bị cảnh báo kết quả học tập nếu rơi vào một trong các trường hợp sau:\na) Điểm trung bình chung tích lũy (CPA) k",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "window_start": 0,
+          "char_count": 1048,
+          "char_length": 500,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "section": "Điều 23. Các tiêu chí bị áp dụng cảnh báo học vụ",
+          "source": "starter/data/corpus.pdf",
+          "page": 24,
+          "strategy": "A",
+          "window_end": 500,
+          "line_count": 17
+        },
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Sinh viên bị buộc thôi học khi bị cảnh báo học tập bao nhiêu lần liên tiếp?",
+    "expected_answer": "Bị cảnh báo học tập 2 lần liên tiếp.",
+    "gold_page": 25,
+    "evidence_quote": "Bị cảnh báo học tập 2 lần liên tiếp theo quy định tại Điểm a Khoản 2 Điều 23",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p25_fixed_00",
+        "page": 25,
+        "score": 0.7691,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng\nĐiều 24. Các trường hợp sinh viên bị buộc thôi học\nCHƯƠNG IV: CẢNH BÁO HỌC VỤ, BUỘC THÔI HỌC VÀ KHEN THƯỞNG\nĐiều 24. Xử lý buộc thôi học đối với sinh viên\n1. Sinh viên bị buộc thôi học nếu thuộc một trong các trường hợp sau đây:\na) Bị cảnh báo học tập 2 lần liên tiếp theo quy định tại Điểm a Khoản 2 Điều 23;\nb) Có tổng số lần bị cảnh báo học tập vượt quá 3 lần trong toàn khóa học;\nc) Vượt quá thời gian học tập tối đ",
+        "metadata": {
+          "line_count": 18,
+          "section": "Điều 24. Các trường hợp sinh viên bị buộc thôi học",
+          "strategy": "A",
+          "chunk_strategy": "fixed_size",
+          "page": 25,
+          "char_length": 500,
+          "char_count": 1043,
+          "window_end": 500,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "source": "starter/data/corpus.pdf",
+          "window_start": 0
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p24_fixed_00",
+        "page": 24,
+        "score": 0.7512,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng\nĐiều 23. Các tiêu chí bị áp dụng cảnh báo học vụ\nCHƯƠNG IV: CẢNH BÁO HỌC VỤ, BUỘC THÔI HỌC VÀ KHEN THƯỞNG\nĐiều 23. Tiêu chí cảnh báo học vụ theo tiến độ học tập\n1. Cảnh báo học tập được thực hiện theo từng học kỳ chính nhằm thông báo để sinh\nviên kịp thời chấn chỉnh thái độ và kết quả học tập.\n2. Sinh viên bị cảnh báo kết quả học tập nếu rơi vào một trong các trường hợp sau:\na) Điểm trung bình chung tích lũy (CPA) k",
+        "metadata": {
+          "line_count": 17,
+          "section": "Điều 23. Các tiêu chí bị áp dụng cảnh báo học vụ",
+          "char_count": 1048,
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "window_end": 500,
+          "strategy": "A",
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_length": 500,
+          "page": 24,
+          "window_start": 0,
+          "source": "starter/data/corpus.pdf"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p25_fixed_02",
+        "page": 25,
+        "score": 0.717,
+        "text": "h viên bị buộc thôi học được cấp giấy chứng nhận kết quả học tập cho các học\nphần đã tích lũy thành công.\nTrang 25 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_start": 900,
+          "char_count": 1043,
+          "chunk_strategy": "fixed_size",
+          "window_end": 1043,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "line_count": 18,
+          "source": "starter/data/corpus.pdf",
+          "section": "Điều 24. Các trường hợp sinh viên bị buộc thôi học",
+          "char_length": 143,
+          "page": 25,
+          "strategy": "A",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng"
+        },
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "Điều kiện về số tín chỉ tích lũy tối thiểu trong học kỳ để sinh viên được xét học bổng khuyến khích học tập là gì?",
+    "expected_answer": "Đăng ký và tích lũy tối thiểu 15 tín chỉ trong học kỳ xét.",
+    "gold_page": 26,
+    "evidence_quote": "Đăng ký và tích lũy tối thiểu 15 tín chỉ trong học kỳ xét học bổng",
+    "applied_filter": {
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng"
+    },
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p29_fixed_02",
+        "page": 29,
+        "score": 0.8439,
+        "text": "n và không\nđược xét học bổng khuyến khích học tập trong học kỳ đó.\nTrang 29 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "strategy": "A",
+          "section": "Điều 28. Các mức độ kỷ luật và quy trình xét kỷ luật",
+          "window_start": 900,
+          "page": 29,
+          "source": "starter/data/corpus.pdf",
+          "char_count": 1004,
+          "char_length": 104,
+          "line_count": 17,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "window_end": 1004
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p26_fixed_00",
+        "page": 26,
+        "score": 0.8143,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng\nĐiều 25. Tiêu chuẩn xét cấp học bổng khuyến khích học tập\nCHƯƠNG IV: CẢNH BÁO HỌC VỤ, BUỘC THÔI HỌC VÀ KHEN THƯỞNG\nĐiều 25. Điều kiện và mức học bổng khuyến khích học tập\n1. Học bổng khuyến khích học tập được xét cấp theo từng học kỳ chính cho sinh viên\nđạt thành tích xuất sắc và giỏi trong học tập và rèn luyện.\n2. Điều kiện được đưa vào danh sách xét học bổng:\na) Đăng ký và tích lũy tối thiểu 15 tín chỉ trong học k",
+        "metadata": {
+          "window_start": 0,
+          "section": "Điều 25. Tiêu chuẩn xét cấp học bổng khuyến khích học tập",
+          "source": "starter/data/corpus.pdf",
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "page": 26,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_length": 500,
+          "chunk_strategy": "fixed_size",
+          "char_count": 1120,
+          "line_count": 19,
+          "window_end": 500,
+          "strategy": "A"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p27_fixed_02",
+        "page": 27,
+        "score": 0.7883,
+        "text": "ch vẫn phải đảm bảo tiến độ học tập và không được\nxét miễn học phí cho các học phần đăng ký học lại do bị điểm F.\nTrang 27 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "char_length": 151,
+          "page": 27,
+          "strategy": "A",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "line_count": 17,
+          "section": "Điều 26. Chính sách miễn giảm học phí và trợ cấp xã hội",
+          "source": "starter/data/corpus.pdf",
+          "char_count": 1051,
+          "window_end": 1051,
+          "chapter": "Chương Iv: Cảnh Báo Học Vụ, Buộc Thôi Học Và Khen Thưởng",
+          "chunk_strategy": "fixed_size",
+          "window_start": 900
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Để được nhận làm đồ án hoặc khóa luận tốt nghiệp, sinh viên phải tích lũy tối thiểu bao nhiêu phần trăm số tín chỉ của chương trình và điểm CPA tối thiểu là bao nhiêu?",
+    "expected_answer": "Tích lũy tối thiểu 85% tổng số tín chỉ và điểm CPA đạt từ 2.00 trở lên.",
+    "gold_page": 32,
+    "evidence_quote": "Tích lũy tối thiểu 85% tổng số tín chỉ của chương trình đào tạo; Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_01",
+        "page": 32,
+        "score": 0.8055,
+        "text": "tổng số tín chỉ của chương trình đào tạo;\nb) Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên;\nc) Không bị cảnh báo học tập hoặc nợ đọng quá 8 tín chỉ học phần bắt buộc.\n3. Sinh viên không đủ điều kiện làm khóa luận tốt nghiệp phải đăng ký học các học\nphần chuyên môn tự chọn thay thế có khối lượng tín chỉ tương đương.\n4. Thời gian hoàn thành khóa luận là 15 tuần kể từ ngày có quyết định giao đề tài\ncủa Hiệu trưởng.\nTrang 32 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "window_start": 450,
+          "page": 32,
+          "source": "starter/data/corpus.pdf",
+          "window_end": 912,
+          "strategy": "A",
+          "line_count": 16,
+          "chunk_strategy": "fixed_size",
+          "char_length": 462,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "char_count": 912,
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_00",
+        "page": 32,
+        "score": 0.7994,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương V: Thực tập, Khóa luận và Tốt nghiệp\nĐiều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp\nCHƯƠNG V: THỰC TẬP, KHÓA LUẬN VÀ TỐT NGHIỆP\nĐiều 30. Tiêu chuẩn làm đồ án và khóa luận tốt nghiệp\n1. Khóa luận hoặc đồ án tốt nghiệp có khối lượng từ 6 đến 10 tín chỉ tùy theo chương\ntrình cử nhân hay kỹ sư.\n2. Sinh viên được giao làm đồ án/khóa luận tốt nghiệp khi đáp ứng đồng thời các tiêu\nchí sau:\na) Tích lũy tối thiểu 85% tổng số tín chỉ của chương trình đào tạo;\nb) Điểm",
+        "metadata": {
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "line_count": 16,
+          "page": 32,
+          "chunk_strategy": "fixed_size",
+          "window_start": 0,
+          "char_count": 912,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "window_end": 500,
+          "char_length": 499,
+          "strategy": "A",
+          "source": "starter/data/corpus.pdf"
+        },
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p18_fixed_01",
+        "page": 18,
+        "score": 0.7925,
+        "text": "hỉ học phần) / Tổng số\ntín chỉ tham gia tính điểm.\n2. Kết quả GPA và CPA được làm tròn đến hai chữ số thập phân sau dấu phẩy.\n3. Các học phần điều kiện bao gồm: Giáo dục thể chất, Giáo dục quốc phòng an ninh,\nvà Chuẩn kỹ năng công nghệ thông tin chỉ dùng để xét điều kiện tốt nghiệp, điểm của\ncác học phần này không tính vào GPA và CPA.\n4. Điểm của các học phần học cải thiện được cập nhật thay thế cho điểm cũ khi tính\nđiểm CPA tích lũy toàn khóa.\nTrang 18 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "strategy": "A",
+          "char_count": 936,
+          "page": 18,
+          "chapter": "Chương Iii: Đánh Giá Kết Quả Học Tập Và Thang Điểm",
+          "section": "Điều 18. Phương pháp tính điểm trung bình học kỳ và tích lũy",
+          "chunk_strategy": "fixed_size",
+          "char_length": 486,
+          "window_end": 936,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "source": "starter/data/corpus.pdf",
+          "line_count": 15,
+          "window_start": 450
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "Điểm trung bình chung tích lũy toàn khóa CPA tối thiểu để sinh viên được xét công nhận tốt nghiệp đại học là bao nhiêu?",
+    "expected_answer": "CPA đạt từ 2.00 trở lên.",
+    "gold_page": 34,
+    "evidence_quote": "Điểm trung bình chung tích lũy toàn khóa CPA đạt từ 2.00 trở lên (theo thang 4)",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p36_fixed_01",
+        "page": 36,
+        "score": 0.762,
+        "text": "chữ và điểm số quy đổi, điểm trung bình toàn khóa CPA và\nxếp hạng tốt nghiệp.\n3. Sinh viên chưa đủ điều kiện tốt nghiệp được cấp Giấy chứng nhận hoàn thành các\nmôn học đã tích lũy trong vòng 5 năm để có thể đăng ký hoàn thành các điều kiện còn\nthiếu.\n4. Quy chế này có hiệu lực thi hành kể từ ngày ký quyết định ban hành và áp dụng cho\ntất cả các khóa sinh viên chính quy đang học tập tại trường.\nTrang 36 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "window_start": 450,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "char_count": 885,
+          "section": "Điều 34. Cấp bằng tốt nghiệp và hiệu lực thi hành",
+          "line_count": 15,
+          "source": "starter/data/corpus.pdf",
+          "page": 36,
+          "strategy": "A",
+          "window_end": 885,
+          "char_length": 434,
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p34_fixed_00",
+        "page": 34,
+        "score": 0.7431,
+        "text": "QUY CHẾ ĐÀO TẠO ĐẠI HỌC Chương V: Thực tập, Khóa luận và Tốt nghiệp\nĐiều 32. Điều kiện xét và công nhận tốt nghiệp đại học\nCHƯƠNG V: THỰC TẬP, KHÓA LUẬN VÀ TỐT NGHIỆP\nĐiều 32. Điều kiện xét công nhận tốt nghiệp\n1. Sinh viên được công nhận tốt nghiệp khi hội đủ các điều kiện sau:\na) Tích lũy đủ số tín chỉ và hoàn thành đầy đủ các học phần theo quy định của chương\ntrình đào tạo;\nb) Điểm trung bình chung tích lũy toàn khóa CPA đạt từ 2.00 trở lên (theo thang 4);\nc) Đạt chuẩn đầu ra về ngoại ngữ và",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "section": "Điều 32. Điều kiện xét và công nhận tốt nghiệp đại học",
+          "source": "starter/data/corpus.pdf",
+          "window_start": 0,
+          "window_end": 500,
+          "page": 34,
+          "char_count": 923,
+          "char_length": 499,
+          "line_count": 15,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "strategy": "A"
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p32_fixed_01",
+        "page": 32,
+        "score": 0.7425,
+        "text": "tổng số tín chỉ của chương trình đào tạo;\nb) Điểm trung bình chung tích lũy CPA đạt từ 2.00 trở lên;\nc) Không bị cảnh báo học tập hoặc nợ đọng quá 8 tín chỉ học phần bắt buộc.\n3. Sinh viên không đủ điều kiện làm khóa luận tốt nghiệp phải đăng ký học các học\nphần chuyên môn tự chọn thay thế có khối lượng tín chỉ tương đương.\n4. Thời gian hoàn thành khóa luận là 15 tuần kể từ ngày có quyết định giao đề tài\ncủa Hiệu trưởng.\nTrang 32 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "line_count": 16,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "section": "Điều 30. Điều kiện nhận đồ án và khóa luận tốt nghiệp",
+          "char_length": 462,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "char_count": 912,
+          "strategy": "A",
+          "window_start": 450,
+          "source": "starter/data/corpus.pdf",
+          "page": 32,
+          "window_end": 912
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Sinh viên có điểm CPA đạt mức Xuất sắc sẽ bị hạ một bậc xếp loại tốt nghiệp xuống loại Giỏi trong những trường hợp nào?",
+    "expected_answer": "Khi khối lượng học lại vượt quá 5% tổng số tín chỉ hoặc đã bị kỷ luật từ mức cảnh cáo cấp trường trở lên.",
+    "gold_page": 35,
+    "evidence_quote": "học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p35_fixed_01",
+        "page": 35,
+        "score": 0.7704,
+        "text": "00 đến 2.49.\n2. Quy định hạ một bậc xếp loại tốt nghiệp:\nHạng tốt nghiệp của sinh viên có điểm CPA đạt mức Xuất sắc hoặc Giỏi sẽ bị giảm đi\nmột bậc (ví dụ Xuất sắc xuống Giỏi, Giỏi xuống Khá) nếu thuộc một trong các trường\nhợp sau:\na) Khối lượng của các học phần phải học lại vượt quá 5% so với tổng số tín chỉ quy\nđịnh cho toàn bộ chương trình đào tạo;\nb) Sinh viên đã bị xử lý kỷ luật trong thời gian học từ mức cảnh cáo cấp trường trở\nlên.\nTrang 35 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "chunk_strategy": "fixed_size",
+          "source": "starter/data/corpus.pdf",
+          "section": "Điều 33. Tiêu chuẩn xếp hạng và hạ bậc bằng tốt nghiệp",
+          "line_count": 18,
+          "char_count": 930,
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "strategy": "A",
+          "window_end": 930,
+          "char_length": 480,
+          "page": 35,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "window_start": 450
+        },
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p14_fixed_01",
+        "page": 14,
+        "score": 0.7369,
+        "text": "hực hành chuyên sâu hoặc đồ án: Tối thiểu 15 sinh\nviên.\n2. Nếu số lượng sinh viên đăng ký ít hơn quy chuẩn tối thiểu, lớp học phần sẽ bị hủy\ntrước khi bắt đầu học kỳ 1 tuần. Phòng Đào tạo sẽ thông báo để sinh viên kịp thời\nchuyển sang đăng ký lớp học phần khác.\n3. Trường hợp đặc biệt đối với học phần bắt buộc sắp tốt nghiệp của khóa cuối có sĩ\nsố dưới mức quy chuẩn, Trưởng khoa phải gửi văn bản đề xuất để Hiệu trưởng phê duyệt\nmở lớp đặc cách.\nTrang 14 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size",
+          "window_start": 450,
+          "window_end": 935,
+          "page": 14,
+          "char_length": 485,
+          "section": "Điều 14. Quy mô lớp học phần và hủy lớp học phần",
+          "strategy": "A",
+          "chapter": "Chương Ii: Tổ Chức Đào Tạo Và Quản Lý Học Vụ",
+          "char_count": 935,
+          "line_count": 16,
+          "document_id": "quy-che-dao-tao-tin-chi-2024"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "quy-che-dao-tao-tin-chi-2024_p36_fixed_01",
+        "page": 36,
+        "score": 0.714,
+        "text": "chữ và điểm số quy đổi, điểm trung bình toàn khóa CPA và\nxếp hạng tốt nghiệp.\n3. Sinh viên chưa đủ điều kiện tốt nghiệp được cấp Giấy chứng nhận hoàn thành các\nmôn học đã tích lũy trong vòng 5 năm để có thể đăng ký hoàn thành các điều kiện còn\nthiếu.\n4. Quy chế này có hiệu lực thi hành kể từ ngày ký quyết định ban hành và áp dụng cho\ntất cả các khóa sinh viên chính quy đang học tập tại trường.\nTrang 36 / 36 Quy chế Đào tạo Tín chỉ",
+        "metadata": {
+          "section": "Điều 34. Cấp bằng tốt nghiệp và hiệu lực thi hành",
+          "document_id": "quy-che-dao-tao-tin-chi-2024",
+          "page": 36,
+          "strategy": "A",
+          "window_end": 885,
+          "char_count": 885,
+          "line_count": 15,
+          "char_length": 434,
+          "window_start": 450,
+          "chapter": "Chương V: Thực Tập, Khóa Luận Và Tốt Nghiệp",
+          "source": "starter/data/corpus.pdf",
+          "chunk_strategy": "fixed_size"
+        },
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ]
+  }
+]

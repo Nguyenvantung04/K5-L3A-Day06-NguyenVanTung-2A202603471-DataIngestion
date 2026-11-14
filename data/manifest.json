@@ -1,0 +1,265 @@
+{
+  "source_id": "quy-che-dao-tao-tin-chi-2024",
+  "title": "Quy chế Đào tạo Trình độ Đại học theo Hệ thống Tín chỉ",
+  "source_path_or_url": "starter/data/corpus.pdf",
+  "license_or_permission": "Public Domain (Văn bản Quy phạm Đào tạo Đại học theo Luật Giáo dục Đại học)",
+  "accessed_at": "2026-11-14",
+  "total_physical_pages": 36,
+  "content_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "page_counting_rule": "Tính toàn bộ 36 trang nội dung quy chế chính thức, không có trang bìa hay trang rỗng.",
+  "pages_meta": [
+    {
+      "page": 1,
+      "chapter": "Chương I: Những Quy định chung",
+      "section": "Phạm vi và Đối tượng",
+      "char_count": 863
+    },
+    {
+      "page": 2,
+      "chapter": "Chương I: Những Quy định chung",
+      "section": "Chương trình Đào tạo",
+      "char_count": 780
+    },
+    {
+      "page": 3,
+      "chapter": "Chương I: Những Quy định chung",
+      "section": "Thời gian Đào tạo",
+      "char_count": 712
+    },
+    {
+      "page": 4,
+      "chapter": "Chương I: Những Quy định chung",
+      "section": "Học chế Tín chỉ",
+      "char_count": 714
+    },
+    {
+      "page": 5,
+      "chapter": "Chương I: Những Quy định chung",
+      "section": "Phân loại Học phần",
+      "char_count": 929
+    },
+    {
+      "page": 6,
+      "chapter": "Chương I: Những Quy định chung",
+      "section": "Chuẩn Đầu ra Ngoại ngữ",
+      "char_count": 830
+    },
+    {
+      "page": 7,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Kế hoạch Năm học",
+      "char_count": 724
+    },
+    {
+      "page": 8,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Đăng ký Học phần",
+      "char_count": 790
+    },
+    {
+      "page": 9,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Điều chỉnh Học phần",
+      "char_count": 782
+    },
+    {
+      "page": 10,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Học lại và Cải thiện",
+      "char_count": 787
+    },
+    {
+      "page": 11,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Nghỉ học Tạm thời",
+      "char_count": 850
+    },
+    {
+      "page": 12,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Chuyển Ngành và Trường",
+      "char_count": 860
+    },
+    {
+      "page": 13,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Song bằng và Ngành kép",
+      "char_count": 821
+    },
+    {
+      "page": 14,
+      "chapter": "Chương II: Tổ chức Đào tạo và Quản lý Học vụ",
+      "section": "Tổ chức Lớp học phần",
+      "char_count": 779
+    },
+    {
+      "page": 15,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Thành phần Đánh giá",
+      "char_count": 852
+    },
+    {
+      "page": 16,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Điều kiện Dự thi",
+      "char_count": 768
+    },
+    {
+      "page": 17,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Thang điểm Quy đổi",
+      "char_count": 1047
+    },
+    {
+      "page": 18,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Tính điểm GPA và CPA",
+      "char_count": 767
+    },
+    {
+      "page": 19,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Xếp loại Học lực",
+      "char_count": 689
+    },
+    {
+      "page": 20,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Xử lý Vi phạm Thi cử",
+      "char_count": 830
+    },
+    {
+      "page": 21,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Phúc khảo Điểm thi",
+      "char_count": 847
+    },
+    {
+      "page": 22,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Điểm Đặc biệt",
+      "char_count": 822
+    },
+    {
+      "page": 23,
+      "chapter": "Chương III: Đánh giá Kết quả Học tập và Thang điểm",
+      "section": "Bảo lưu Điểm số",
+      "char_count": 759
+    },
+    {
+      "page": 24,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Cảnh báo Học vụ",
+      "char_count": 888
+    },
+    {
+      "page": 25,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Buộc Thôi học",
+      "char_count": 873
+    },
+    {
+      "page": 26,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Học bổng Khuyến khích",
+      "char_count": 943
+    },
+    {
+      "page": 27,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Miễn giảm Học phí",
+      "char_count": 876
+    },
+    {
+      "page": 28,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Khen thưởng Sinh viên",
+      "char_count": 846
+    },
+    {
+      "page": 29,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Kỷ luật Sinh viên",
+      "char_count": 832
+    },
+    {
+      "page": 30,
+      "chapter": "Chương IV: Cảnh báo Học vụ, Buộc thôi học và Khen thưởng",
+      "section": "Điểm Rèn luyện",
+      "char_count": 850
+    },
+    {
+      "page": 31,
+      "chapter": "Chương V: Thực tập, Khóa luận và Tốt nghiệp",
+      "section": "Thực tập Doanh nghiệp",
+      "char_count": 813
+    },
+    {
+      "page": 32,
+      "chapter": "Chương V: Thực tập, Khóa luận và Tốt nghiệp",
+      "section": "Đồ án Khóa luận",
+      "char_count": 752
+    },
+    {
+      "page": 33,
+      "chapter": "Chương V: Thực tập, Khóa luận và Tốt nghiệp",
+      "section": "Bảo vệ Đồ án",
+      "char_count": 783
+    },
+    {
+      "page": 34,
+      "chapter": "Chương V: Thực tập, Khóa luận và Tốt nghiệp",
+      "section": "Công nhận Tốt nghiệp",
+      "char_count": 764
+    },
+    {
+      "page": 35,
+      "chapter": "Chương V: Thực tập, Khóa luận và Tốt nghiệp",
+      "section": "Xếp loại Tốt nghiệp",
+      "char_count": 769
+    },
+    {
+      "page": 36,
+      "chapter": "Chương V: Thực tập, Khóa luận và Tốt nghiệp",
+      "section": "Cấp Bằng và Hồ sơ",
+      "char_count": 729
+    }
+  ]
+}
