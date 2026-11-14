@@ -1,7 +1,7 @@
 {
   "source_id": "quy-che-dao-tao-tin-chi-2024",
   "title": "Quy chế Đào tạo Trình độ Đại học theo Hệ thống Tín chỉ",
-  "source_path_or_url": "starter/data/corpus.pdf",
+  "source_path_or_url": "data/corpus.pdf (cung cấp đồng thời dưới dạng data/corpus.md và data/corpus.json)",
   "license_or_permission": "Public Domain (Văn bản Quy phạm Đào tạo Đại học theo Luật Giáo dục Đại học)",
   "accessed_at": "2026-11-14",
   "total_physical_pages": 36,
